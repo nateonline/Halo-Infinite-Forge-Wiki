@@ -11,12 +11,12 @@ This is a place for us to coordinate on into via .md files nested in folders
 ### Documentation
 * Node Blocks
 	* Audio
-		* [Play 3D Audio For All Players]()
-		* [Play 3D Audio For Team]()
-		* [Play 3D Audio For Opposing Teams]()
-		* [Set Object 3D Audio Loop]()
-		* [Stop Object 3D Audio Loop]()
-		* [Register Audio Zone]()
-		* [Unregister Audio Zone]()
+		* [Play 3D Audio For All Players](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Play%203D%20Audio%20For%20All%20Players.md)
+		* [Play 3D Audio For Team](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Play%203D%20Audio%20For%20Team.md)
+		* [Play 3D Audio For Opposing Teams](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Play%203D%20Audio%20For%20Opposing%20Teams.md)
+		* [Set Object 3D Audio Loop](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Set%20Object%203D%20Audio%20Loop.md)
+		* [Stop Object 3D Audio Loop](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Stop%20Object%203D%20Audio%20Loop.md)
+		* [Register Audio Zone](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Register%20Audio%20Zone.md)
+		* [Unregister Audio Zone](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/Unregister%20Audio%20Zone.md)
 * Types
 ---
