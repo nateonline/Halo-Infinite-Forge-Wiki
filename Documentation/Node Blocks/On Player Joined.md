@@ -14,7 +14,7 @@
 			</td>
 			<td>
 				<ul>
-					<li>◆</li>
+					<li>◆ (Control)</li>
 					<li>Player (Player)</li>
 					<li>Team (Team)</li>
 				</ul>
