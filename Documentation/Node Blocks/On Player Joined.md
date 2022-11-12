@@ -8,7 +8,7 @@
 		</tr>
   	</thead>
   	<tbody>
-		<tr width="600px" style="padding-top: 50px">
+		<tr>
 			<td>
 				(None)
 			</td>
