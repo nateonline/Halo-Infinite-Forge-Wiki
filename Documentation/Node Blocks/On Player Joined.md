@@ -1,27 +1,21 @@
 # Node : On Player Joined
 
-
-
-### Equal widths
-
-Github markdown full-width 2 column table.
-
 <table>
 <tr>
 <th>
 <img width="441" height="1px">
 <p> 
-<small>
+<!-- <small> -->
 Inputs
-</small>
+<!-- </small> -->
 </p>
 </th>
 <th>
 <img width="441" height="1">
 <p> 
-<small>
+<!-- <small> -->
 Outputs
-</small>
+<!-- </small> -->
 </p>
 </th>
 </tr>
