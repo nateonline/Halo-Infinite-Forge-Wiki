@@ -1,39 +1,14 @@
 # Node : On Player Joined
 
 <table>
-<tr>
-<th widht="441px">
-<!-- <p>  -->
-Inputs
-<!-- </p> -->
-</th>
-<th widht="441px">
-<!-- <p>  -->
-Outputs
-<!-- </p> -->
-</th>
-</tr>
-<tr>
-<td>
-(None)
-<!-- <img width="441" height="1px"> -->
-</td>
-<td>
-<!-- <img width="441" height="1"> -->
-</td>
-</tr>
-</table>
-
-
-<table>
   	<thead>
     	<tr>
-			<th width="500px">API</th>
-			<th width="500px">CLI</th>
+			<th width="500px">Inputs</th>
+			<th width="500px">Outputs</th>
 		</tr>
   	</thead>
   	<tbody>
-		<tr width="600px">
+		<tr width="600px" style="padding-top: 50px">
 			<td>
 				(None)
 			</td>
