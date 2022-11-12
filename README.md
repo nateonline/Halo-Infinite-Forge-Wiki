@@ -4,10 +4,11 @@ A Wiki for Halo Infinite Forge
 This is a place for us to coordinate on into via .md files nested in folders
 
 ---
-
-Table of contents
 * Tips & Tricks
     * [Object References](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Tips%20&%20Tricks/Object%20References.md)
 	* [Circular Control Pins]
-
+* Documentation
+	* Node Blocks
+		* [On Player Joined](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/On%20Player%20Joined.md)
+	* Types
 ---
