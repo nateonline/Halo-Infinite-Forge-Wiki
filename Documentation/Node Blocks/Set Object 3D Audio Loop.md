@@ -1,6 +1,7 @@
 # Set Object 3D Audio Loop
 
 Category: Audio
+
 Description: Sets a 3D audio loop to play on the _Object_. Can be set to play only for allied or opposing players, which uses the object's Team setting in the **Object Properties** menu.
 
 <table>

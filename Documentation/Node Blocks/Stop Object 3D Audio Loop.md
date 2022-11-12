@@ -1,6 +1,7 @@
 # Stop Object 3D Audio Loop
 
 Category: Audio
+
 Description: Stops the audio loop currently playing on the _Object_. Can stop sounds playing for allied or opposing players independently.
 
 <table>

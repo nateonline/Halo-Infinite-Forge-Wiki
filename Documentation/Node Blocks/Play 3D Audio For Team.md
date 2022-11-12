@@ -1,6 +1,7 @@
 # Play 3D Audio For All Players
 
 Category: Audio
+
 Description: Plays a 3D audio clip audible to all players on the _Team_ within range of the _Position_
 
 <table>

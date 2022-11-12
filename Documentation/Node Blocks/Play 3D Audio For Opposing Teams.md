@@ -1,6 +1,7 @@
 # Play 3D Audio For Opposing Teams
 
 Category: Audio
+
 Description: Plays a 3D audio clip audible to all players NOT on the _Team_ within range of the _Position_
 
 <table>
