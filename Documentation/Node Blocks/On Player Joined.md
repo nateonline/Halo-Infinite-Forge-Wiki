@@ -9,7 +9,7 @@ Github markdown full-width 2 column table.
 <table>
 <tr>
 <th>
-<img width="441" height="1px">
+<!-- <img width="441" height="1px"> -->
 <p> 
 <small>
 Inputs
@@ -17,7 +17,7 @@ Inputs
 </p>
 </th>
 <th>
-<img width="441" height="1">
+<!-- <img width="441" height="1"> -->
 <p> 
 <small>
 Outputs
