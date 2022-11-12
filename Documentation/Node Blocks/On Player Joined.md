@@ -2,14 +2,12 @@
 
 <table>
 <tr>
-<th height="20">
-<img width="441" height="1px">
+<th>
 <!-- <p>  -->
 Inputs
 <!-- </p> -->
 </th>
-<th height="20">
-<img width="441" height="1">
+<th>
 <!-- <p>  -->
 Outputs
 <!-- </p> -->
@@ -18,6 +16,7 @@ Outputs
 <tr>
 <td>
 (None)
+<img width="441" height="1px">
 </td>
 <td>
 <ul>
@@ -25,6 +24,7 @@ Outputs
   <li>Player (Player)</li>
   <li>Team (Team)</li>
 </ul>
+<img width="441" height="1">
 </td>
 </tr>
 </table>
