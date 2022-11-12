@@ -4,19 +4,15 @@
 <tr>
 <th>
 <img width="441" height="1px">
-<p> 
-<!-- <small> -->
+<!-- <p>  -->
 Inputs
-<!-- </small> -->
-</p>
+<!-- </p> -->
 </th>
 <th>
 <img width="441" height="1">
-<p> 
-<!-- <small> -->
+<!-- <p>  -->
 Outputs
-<!-- </small> -->
-</p>
+<!-- </p> -->
 </th>
 </tr>
 <tr>
