@@ -10,6 +10,13 @@ This is a place for us to coordinate on into via .md files nested in folders
 
 ### Documentation
 * Node Blocks
-	* [On Player Joined](https://github.com/nateonline/Halo-Infinite-Forge-Wiki/blob/main/Documentation/Node%20Blocks/On%20Player%20Joined.md)
+	* Audio
+		* [Play 3D Audio For All Players]()
+		* [Play 3D Audio For Team]()
+		* [Play 3D Audio For Opposing Teams]()
+		* [Set Object 3D Audio Loop]()
+		* [Stop Object 3D Audio Loop]()
+		* [Register Audio Zone]()
+		* [Unregister Audio Zone]()
 * Types
 ---
