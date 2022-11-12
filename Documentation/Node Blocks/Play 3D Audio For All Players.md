@@ -1,4 +1,7 @@
-# On Player Joined
+# Play 3D Audio For All Players
+
+Category: Audio
+Description: Plays a 3D audio clip audible to all players within range of the _Position_
 
 <table>
   	<thead>
@@ -10,13 +13,14 @@
   	<tbody>
 		<tr>
 			<td>
-				(None)
+				<ul>
+					<li>◆ (Control)</li>
+					<li>Position (Vector3)</li>
+				</ul>
 			</td>
 			<td>
 				<ul>
 					<li>◆ (Control)</li>
-					<li>Player (Player)</li>
-					<li>Team (Team)</li>
 				</ul>
 			</td>
 		</tr>
