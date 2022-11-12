@@ -2,13 +2,13 @@
 
 <table>
 <tr>
-<th>
+<th height="20">
 <img width="441" height="1px">
 <!-- <p>  -->
 Inputs
 <!-- </p> -->
 </th>
-<th>
+<th height="20">
 <img width="441" height="1">
 <!-- <p>  -->
 Outputs
